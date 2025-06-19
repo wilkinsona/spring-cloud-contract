@@ -37,7 +37,7 @@
 		<cglib.version>3.3.0</cglib.version>
 		<spock-spring.version>2.3-groovy-4.0
 		</spock-spring.version> <!-- @releaser:version-check-off -->
-		<hoverfly-junit.version>0.2.2</hoverfly-junit.version>
+		<hoverfly-java.version>0.20.2</hoverfly-java.version>
 		<commons-text.version>1.13.1</commons-text.version>
 		<handlebars.version>4.3.1</handlebars.version>
 		<jgit.version>6.10.1.202505221210-r</jgit.version>
@@ -219,8 +219,8 @@
 			</dependency>
 			<dependency>
 				<groupId>io.specto</groupId>
-				<artifactId>hoverfly-junit</artifactId>
-				<version>${hoverfly-junit.version}</version>
+				<artifactId>hoverfly-java</artifactId>
+				<version>${hoverfly-java.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.commons</groupId>

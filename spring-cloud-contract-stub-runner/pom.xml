@@ -155,7 +155,7 @@
 		<!-- Git Stub Downloader -->
 		<dependency>
 			<groupId>io.specto</groupId>
-			<artifactId>hoverfly-junit</artifactId>
+			<artifactId>hoverfly-java</artifactId>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
